@@ -1,4 +1,4 @@
-# public-transport-delay-analysis-
+# Public Transport Delay Analysis
 
 ## Overview
 This analysis explores factors influencing public transport delays using a dataset of ~2,000 trips across bus, metro, train, and tram services in January. Key drivers of delay were identified through exploratory analysis and a Random Forest classifier, with hour of day and weekday emerging as the strongest predictors of delay likelihood. While the model achieved 73.75% accuracy, class imbalance limited its ability to correctly identify non-delayed trips, highlighting an area for further refinement.
