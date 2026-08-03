@@ -19,6 +19,7 @@ synthetically generated and does not reflect real-world data.
 <img width="3143" height="1650" alt="heatmap_hour" src="https://github.com/user-attachments/assets/939e5308-8261-4272-8a1b-f74804711581" />
 <img width="3194" height="1651" alt="heatmap_weekday" src="https://github.com/user-attachments/assets/fcbfc034-9ffa-4738-908a-5589418aae16" />
 <img width="3168" height="1650" alt="heatmap_weekend" src="https://github.com/user-attachments/assets/a0293a7f-8a41-4e7f-9365-4878c5a6e711" />
+<img width="2874" height="1650" alt="importance" src="https://github.com/user-attachments/assets/48b8366a-8de9-4bd5-8e67-8e4eec8324da" />
 
 
 
