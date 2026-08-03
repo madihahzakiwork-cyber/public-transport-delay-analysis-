@@ -35,4 +35,5 @@ synthetically generated and does not reflect real-world data.
 Python, pandas, seaborn, scikit-learn, matplotlib
 
 ## How to Run
-[Brief instructions, e.g., pip install -r requirements.txt, then open notebook]
+  Install pandas, seaborn, scikit-learn, and matplotlib, then open and run 
+  `public_transport_delay.ipynb` in Jupyter.
